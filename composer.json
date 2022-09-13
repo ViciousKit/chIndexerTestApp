@@ -1,0 +1,13 @@
+{
+    "name": "chindexer_test/test",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "yuriSviridov",
+            "email": "vswekid@gmail.com"
+        }
+    ],
+    "require": {
+        "mpcmf/mpcmf-console": "dev-master"
+    }
+}
